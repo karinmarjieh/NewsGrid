@@ -1,10 +1,11 @@
 import { NavLink, Link } from "react-router-dom";
+import logo from "../../assets/img/logo.png";
 function Header() {
   return (
     <>
       <nav id="main-nav">
         <div className="container">
-          <img src="../../public/logo.png" alt="NewsGrid" class="logo" />
+          <img src={logo} alt="NewsGrid" class="logo" />
           <div class="social">
             <Link to="http://facebook.com" target="_blank">
               <i class="fab fa-facebook fa-2x"></i>
