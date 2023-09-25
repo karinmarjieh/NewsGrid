@@ -4,7 +4,7 @@ function Header() {
     <>
       <nav id="main-nav">
         <div className="container">
-          <img src="../../public/img/logo.png" alt="NewsGrid" class="logo" />
+          <img src="../../public/logo.png" alt="NewsGrid" class="logo" />
           <div class="social">
             <Link to="http://facebook.com" target="_blank">
               <i class="fab fa-facebook fa-2x"></i>

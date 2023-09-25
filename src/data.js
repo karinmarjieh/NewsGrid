@@ -2,7 +2,7 @@ export const articleBoxes = [
     {
       articleClassName: "card",
       imageDirectionAfterParagraph: false,
-      imageSource: "../../public/img/articles/ent1.jpg",
+      imageSource: "../../public/ent1.jpg",
       altImageSource: "",
       title: "Entertainment",
       titleClassName: "category category-ent",
@@ -25,7 +25,7 @@ export const articleBoxes = [
     {
       articleClassName: "card",
       imageDirectionAfterParagraph: false,
-      imageSource: "../../public/img/articles/tech1.jpg",
+      imageSource: "../../public/tech1.jpg",
       altImageSource: "",
       title: "Technology",
       titleClassName: "category category-tech",
@@ -37,7 +37,7 @@ export const articleBoxes = [
     {
       articleClassName: "card",
       imageDirectionAfterParagraph: true,
-      imageSource: "../../public/img/articles/sports1.jpg",
+      imageSource: "../../public/sports1.jpg",
       altImageSource: "",
       title: "Sports",
       titleClassName: "category category-sports",
@@ -49,7 +49,7 @@ export const articleBoxes = [
     {
       articleClassName: "card",
       imageDirectionAfterParagraph: false,
-      imageSource: "../../public/img/articles/tech2.jpg",
+      imageSource: "../../public/tech2.jpg",
       altImageSource: "",
       title: "Technology",
       titleClassName: "category category-tech",
@@ -72,7 +72,7 @@ export const articleBoxes = [
     {
       articleClassName: "card",
       imageDirectionAfterParagraph: true,
-      imageSource: "../../public/img/articles/ent2.jpg",
+      imageSource: "../../public/ent2.jpg",
       altImageSource: "",
       title: "Entertainment",
       titleClassName: "category category-ent",

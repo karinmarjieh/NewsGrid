@@ -7,7 +7,7 @@ export default function Footer() {
       <footer id="main-footer" class="py-2">
         <div class="container footer-container">
       <div>
-        <img src="../../public/img/logo_light.png" alt="NewsGrid"/>
+        <img src="../../public/logo_light.png" alt="NewsGrid"/>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit deserunt assumenda enim non? Ratione ipsum voluptates fuga eos earum vitae.</p>
       </div>
       <div>
