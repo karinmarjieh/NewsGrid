@@ -8,7 +8,7 @@ export default function Article() {
         <div class="container">
           <div class="page-container">
             <article class="card">
-              <img src="../../src/assets/img/articles/ent1.jpg" alt="" />
+              <img src="/img/articles/ent1.jpg" alt="" />
               <h1 class="l-heading">Lorem ipsum dolor sit amet</h1>
               <div class="meta">
                 <small>
